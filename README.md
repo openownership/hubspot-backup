@@ -12,7 +12,7 @@ day, as well as whenever code is pushed to the repository.
 
 ## Running the code locally
 
-The code to run the backup lives in [/hubspot/export_hubspot.py]. To run it:
+The code to run the backup lives in [/hubspot/export_hubspot.py](https://github.com/openownership/notion-backup/tree/master/hubspot/export_hubspot.py). To run it:
 
 1. Install requirements
 
@@ -31,7 +31,7 @@ The code to run the backup lives in [/hubspot/export_hubspot.py]. To run it:
    HUBSPOT_API_KEY=<get-the-key-from-hubspot>
    ```
 
-3. Run the python module: `python notion`
+3. Run the python module: `python hubspot`
 
 ## Github Action config
 
